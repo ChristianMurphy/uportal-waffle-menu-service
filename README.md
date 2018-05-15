@@ -6,7 +6,7 @@ Users are identified by JWT and the roles embedded in the JWT serves as a filter
 
 The master list of items are configured via a json file on the server of the form:
 
-```
+```json
 {
 	"menu-items": [
 		{
